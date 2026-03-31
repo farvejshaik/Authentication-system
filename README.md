@@ -176,7 +176,7 @@ POST /api/auth/login
     "username": "john_doe",
     "email": "john@example.com"
   },
-  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+  "accessToken": "access_token..."
 }
 ```
 
